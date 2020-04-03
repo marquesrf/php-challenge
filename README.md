@@ -10,7 +10,7 @@ In this challenge you will create an API for a library with these conditions:
 
 * **Login and Logout:** Authentication
 
-  _Create routes for session handling with Json Web Tokens._
+  _Create routes for session handling with JSON Web Tokens._
   
 * **Books:** Entity
 
