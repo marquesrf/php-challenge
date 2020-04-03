@@ -1,4 +1,5 @@
 
+![](https://lh3.googleusercontent.com/-SjJCP2AntwI/XoYRxI-hBjI/AAAAAAAABA4/bFi0th7AKGgQFVIOB8L-GiWSZriYhI6MgCK8BGAsYHg/s0/2020-04-02.png)
 # Instituto Atlântico PHP Developer Challenge
 
 Hi! this is a simple challenge for the **#GDP-572** job position at Instituto Atlântico. This challenge consists of creating a simple REST API. You can use any framework, lib and database you desire, just make sure to show some of your core PHP and SQL skills! To start, simply **fork** this repository, and when you're done, submit a Pull Request for us to review your code.
