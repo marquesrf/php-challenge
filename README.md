@@ -3,7 +3,7 @@
 ![](https://lh3.googleusercontent.com/-SjJCP2AntwI/XoYRxI-hBjI/AAAAAAAABA4/bFi0th7AKGgQFVIOB8L-GiWSZriYhI6MgCK8BGAsYHg/s0/2020-04-02.png)
 # Instituto Atlântico Fullstack Developer Challenge
 
-Hi! this is a simple challenge for the Fullstack Developer job position at Instituto Atlântico. This challenge consists of creating a simple REST API and showing the results in a Web Page. You can use any language, framework, lib and database you desire, but we are specially looking for someone with good PHP and JavaScript skills! To start, create a new branch for this repo, and when you're done, submit a Pull Request for us to review your code.
+Hi! this is a simple challenge for the Fullstack Developer job position at Instituto Atlântico. This challenge consists of creating a simple REST API and showing the results in a Web Page. You can use any language, framework, lib and database you desire, but we are specially looking for someone with good PHP and React skills! To start, create a new branch for this repo, and when you're done, submit a Pull Request for us to review your code.
 
 ### API Description
 
